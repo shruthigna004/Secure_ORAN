@@ -12,4 +12,4 @@ DRL ORAN framework that integrates dynamic matrix encryp-
 tion with PPO based routing. The results demonstrate that the
 proposed framework achieves packet integrity of 97.96% with
 latency reduction of 16.44% compared to conventional routing
-methods
+methods.
